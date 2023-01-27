@@ -1,17 +1,17 @@
-# Principles of meetings
+# 🤝 Principles of meetings
 
 This details principles for effective meetings, mainly based on two reference
 texts [1, 2].
 
-## Principles
+## 🚷 Principles
 
 ### Type of meetings
 
 There are 3 purposes a meeting can have [1, 2]. To:
 
-1. Inform.
-2. Discuss.
-3. Decide.
+1. ℹ Inform.
+2. 💬 Discuss.
+3. 🤔 Decide.
 
 How a meeting takes place depends on what type of meeting it is.
 
@@ -19,11 +19,11 @@ How a meeting takes place depends on what type of meeting it is.
 
 There are 3 phases to a meeting [1, 2]:
 
-- Before.
-- During.
-- After.
+- ⏳ Before.
+- 🕑 During.
+- 📡 After.
 
-#### Before a meeting
+#### ⏳ Before a meeting
 
 1. Decide if you need a meeting.
     - Clarify the purpose: is the meeting meant to inform, discuss or decide?
@@ -43,7 +43,7 @@ There are 3 phases to a meeting [1, 2]:
     - Will everyone have time to look at relevant information before the meeting
       takes place?
 
-#### During a meeting
+#### 🕑 During a meeting
 
 1. Stay on time
 2. Identify a facilitator. Depending on the meeting purpose their role will be
@@ -56,10 +56,9 @@ There are 3 phases to a meeting [1, 2]:
       decision might not need to be a democratic one.
 3. Note actions.
 
+#### 📡 After a meeting
 
-#### After a meeting
-
-### What is not a meeting?
+### 🛑 What is not a meeting?
 
 - A group working session is not necessarily a meeting.
 
